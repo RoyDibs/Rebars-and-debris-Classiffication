@@ -1,14 +1,19 @@
 main:
-    -title: "Home"
-    -url: /home/
-    -title: "Updates"
-    -url: /updates/
-    -title: "Publications"
-    -url: /publications/
-    -title: "Projects"
-    -url: /projects/
-    -title: "Blog"
-    -url: /blog/
+    - title: "Home"
+      url: /home/
+      description: "Go back to home"
+    - title: "Updates"
+      url: /updates/
+      description: "What's new"
+    - title: "Publications"
+      url: /publications/
+      description: "See my publications"
+    - title: "Projects"
+      url: /projects/
+      description: "See my projects"
+    - title: "Blog"
+      url: /blog/
+      description: "Get to know me better"
 #   - title: "Posts"
 #     url: /posts/
 #   - title: "Categories"
