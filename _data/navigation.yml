@@ -1,7 +1,7 @@
 main:
-    - title: "Home"
-      url: /home/
-      description: "Go back to home"
+#     - title: "Home"
+#       url: /home/
+#       description: "Go back to home"
     - title: "Updates"
       url: /updates/
       description: "What's new"
