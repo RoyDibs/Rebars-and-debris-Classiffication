@@ -1,2 +1,2 @@
 # Rebars-and-debris-Classiffication
-This repository cotain the progarm files of the ML algorithms we used throughout our project
+This repository contains the progarm files of the ML algorithms we used throughout our project
